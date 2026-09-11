@@ -1,10 +1,4 @@
-# Assignment 3 – Log-Structured Filesystem with FUSE
-
-## Team Info
-
-| Name       | Roll No |
-|------------|---------|
-| (fill in)  | (fill in) |
+ Log-Structured Filesystem with FUSE
 
 ## Build & Run
 
