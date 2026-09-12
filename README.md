@@ -121,3 +121,8 @@ The `logfs_stats.ko` kernel module (Task F) creates:
 The library calls this after every fsync on logfs.img. If the sysfs file does not exist the write is silently skipped.
 
 *Note: the kernel module source is not included here; it is a separate kernel-level deliverable.*
+
+##Contributors
+
+Nymish Kumar Reddy
+Harihara Varma
