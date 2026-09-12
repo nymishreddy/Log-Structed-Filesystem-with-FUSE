@@ -122,7 +122,7 @@ The library calls this after every fsync on logfs.img. If the sysfs file does no
 
 *Note: the kernel module source is not included here; it is a separate kernel-level deliverable.*
 
-##Contributors
+## Contributors
 
 Nymish Kumar Reddy
 Harihara Varma
