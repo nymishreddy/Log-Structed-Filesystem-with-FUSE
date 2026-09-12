@@ -124,5 +124,5 @@ The library calls this after every fsync on logfs.img. If the sysfs file does no
 
 ## Contributors
 
-Nymish Kumar Reddy
+Nymish Kumar Reddy,
 Harihara Varma
